@@ -84,3 +84,7 @@ p {
 .edge p,
 .larry h3,
 .larry p { color: #000 }
+
+.flex-box{
+    display: flex;
+}
