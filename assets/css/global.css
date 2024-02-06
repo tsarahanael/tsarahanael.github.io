@@ -6,21 +6,6 @@ body {
     margin: 0px;
 }
 
-
-.web-page{
-    display: flex;
-    justify-content: center;
-    flex-flow: wrap;
-}
-
-.web-page-row{
-    margin: 12px;
-}
-
-.web-page-col{
-    margin: 6px;
-}
-
 .title-box{
     display: flex;
     justify-content: center;
@@ -46,6 +31,16 @@ body {
     font-family: 'Salsa', cursive;
 }
 
+.button{
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px #90eebf;
+    background-color: #eebf90;
+   /* padding: 2px;*/
+    margin: 5px;
+}
+
 .content{
     display: flex;
     padding: 30px;
@@ -54,12 +49,14 @@ body {
 
 .content-text{
     align-self: center;
+    margin-left: auto;
+    margin-right: auto;
     padding: 50px;
 }
 
 .content-img{
     border-radius: 50%;
-    box-shadow: 8px 10px 8px #ee9090;
+    box-shadow: 8px 10px 8px lightgreen;
 }
 
 .who-am-i{
