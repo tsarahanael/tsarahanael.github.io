@@ -1,0 +1,20 @@
+
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #22092C }
+
+header.theme-dark   { background-color: #872341 }
+
+header.theme-dark  h1 { color: #F05941; }
+
+section.theme-dark   { background-color: #BE3144 }
+
+footer.theme-dark   { background-color: #22092C }
+
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
+
+h1,h2{
+    font-family: 'Fanwood Text', serif;
+}
+
+h3,h4,h5,h6,p{
+    font-family: 'Quattrocento', serif;
+}
